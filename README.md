@@ -6,5 +6,8 @@
 
 ## Linux
 
+
+- zip concept
+- permissions concept 
 ## Git-GitHub
 
